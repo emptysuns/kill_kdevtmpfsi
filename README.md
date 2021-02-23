@@ -1,3 +1,3 @@
 # kill_kdevtmpfsi
 Permanently delete kdevtmpfsi mining virus
-USE：chmod 777 kill_kdevtmpfsi.sh&&./kill_kdevtmpfsi.sh
+`chmod 777 kill_kdevtmpfsi.sh&&./kill_kdevtmpfsi.sh`
